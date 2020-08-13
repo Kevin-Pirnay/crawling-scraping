@@ -1,0 +1,16 @@
+{
+  "name": "delhaize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.25",
+    "puppeteer": "^5.2.1",
+    "random-useragent": "^0.4.0"
+  }
+}
